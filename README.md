@@ -44,7 +44,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank">
