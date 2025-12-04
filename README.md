@@ -94,7 +94,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br/>PostgreSQL
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="50" height="50"/><br/>AWS
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" />AWS
     </td>
   </tr>
 </table>
