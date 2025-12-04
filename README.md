@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://noorunnizaey.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://komarev.com/ghpvc/?username=noorunniza&label=Profile%20views&color=0e75b6&style=flat" alt="noorunniza"/>
   </a>
 </p>
 
