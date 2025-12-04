@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://noorunnizaey.vercel.app" target="_blank">
-  <img src="https://github.com/Noorunniza.png" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://komarev.com/ghpvc/?username=noorunniza&label=Profile%20views&color=0e75b6&style=flat" alt="noorunniza"/>
   </a>
 </p>
 
