@@ -40,10 +40,8 @@
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45" height="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" />
-  </a>
+
+  
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" />
