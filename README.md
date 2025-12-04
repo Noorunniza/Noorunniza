@@ -13,7 +13,8 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=noorunniza" alt="noorunniza" />
+     <img src="https://github.com/Noorunniza.png" width="150" height="150" style="border-radius: 50%;" />
+</p>
   </a>
 </p>
 
